@@ -22,4 +22,4 @@ Dibuat menggunakan
 - Firebase
 - GitHub Pages
 
-DANDI PRATAMA SADEWA
+BY-DANDI PRATAMA SADEWA
